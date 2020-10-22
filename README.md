@@ -6,7 +6,7 @@ Respository consisting of projects completed for self learning. All of my projec
     
 - ### Talks
   - #### [Detective of Los Angeles](https://github.com/mounicanaidu/Detective-of-LosAngeles)
-    -  Fun data exploratory project to investigate LA Crime Data as part of GRIDS (Graduates Rising in Data Science) Presents 2019, a USC Data Science group for graduate students
+    -  Presented a fun data exploratory project to investigate LA Crime Data as part of GRIDS (Graduates Rising in Data Science) Presents 2019, a USC Data Science group for graduate students
    
 - ### Starter projects
   - #### [Spam or not Spam](https://github.com/mounicanaidu/Data-Science-Portfolio/blob/master/SpamOrNot.ipynb)
