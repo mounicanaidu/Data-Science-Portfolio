@@ -1,6 +1,6 @@
 # Data Science Portfolio
  
-Respository consisting of projects completed by me for self learning. All of my projects are done using Jupyter Notebook in Python 3.
+Respository consisting of projects completed for self learning. All of my projects are done using Jupyter Notebook in Python 3.
 
 ## Content
     
